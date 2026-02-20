@@ -1,6 +1,4 @@
 .DS_Store
-.env
-.env.*
 .state
 !.env.example
 !backend/cmd/installer/files/links/.env
@@ -22,3 +20,4 @@ build/*
 data/*
 .bak/*
 !.gitkeep
+config.bat
